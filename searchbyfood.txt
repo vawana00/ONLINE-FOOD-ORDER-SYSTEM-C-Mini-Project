@@ -1,0 +1,4 @@
+1. Vegeterian Momo 	 -Rs. 100
+2. Chicken Momo 	 -Rs. 120
+3. Vegeterian Chowmin	 -Rs. 110
+4. Chicken Chowmin       -Rs. 140

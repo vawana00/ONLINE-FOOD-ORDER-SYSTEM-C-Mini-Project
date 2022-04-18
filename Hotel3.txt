@@ -1,0 +1,4 @@
+1.Peda		--Rs. 10 (per piece)
+2.Laddu		--Rs. 15 (per piece)
+3.Julebi	--Rs. 20 (per piece)
+4.Barfi 	--Rs. 15 (per piece)
